@@ -1,12 +1,12 @@
-# 📱 TubiApp Automation - Android Mobile UI Test
+# TubiApp Automation - Android Mobile UI Test
 
 > Automated end-to-end testing project for the Tubi Android App using Appium, Python, and Pytest.
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
-- Bypasses onboarding on Tubi app.
+- Bypasses onboarding on the Tubi app.
 - Navigates to **Movies > Family Movies** category.
 - Searches and verifies the asset: **"UglyDolls"**.
 - Generates a beautiful **HTML test report**.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Component           | Version / Framework |
 |---------------------|----------------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```bash
 TubiApp-Automation/
