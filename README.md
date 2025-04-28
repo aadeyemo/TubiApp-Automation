@@ -46,3 +46,16 @@ TubiApp-Automation/
 │   └── workflows/
 │       └── tests.yml         # GitHub Actions CI workflow
 └── reports/                  # Test reports (auto-generated)
+
+---------
+
+Key Features
+
+- Real-device testing and emulator
+- Page Object Model (POM) design
+- Positive & Negative test cases
+- Auto screen recording during tests
+- Detailed HTML reporting
+- Force retries and failure logging
+- Easily extendable for new Tubi tests
+
